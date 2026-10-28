@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="29311101-eaef-4315-a309-bf4c8ba14f0c" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/resource/pom.xml" />
+        <option value="$PROJECT_DIR$/pureclient/pom.xml" />
+        <option value="$PROJECT_DIR$/client/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_21" default="true" project-jdk-name="Java 21" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
